@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "MAX.C": "cpp",
+        "typeinfo": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
